@@ -1,0 +1,92 @@
+.body{
+    background-color: black;
+}
+
+*{
+    text-decoration-line: none;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+
+.title{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border-radius: 10px 10px 10px 10px / 10px 10px 10px 10px;
+    background-color: darkgray !important;
+}
+
+.name{
+    margin-left: 10px;
+}
+
+.main_board{
+    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border-radius: 10px 10px 10px 10px / 10px 10px 10px 10px;
+    background-color: gray !important;
+}
+
+.finale{
+    margin-left : 10px;
+    margin-bottom: 15px;
+}
+
+.summary{
+    border-radius: 10px 10px 10px 10px / 10px 10px 10px 10px;
+    margin-left: 10px;
+    padding: 5px;
+    width: 315px;
+    height: auto;
+    background-color: #444;
+}
+
+.finale1{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.line{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+iframe{
+    margin-left: 10px;
+}
+
+.main{
+    margin-left: 10px;
+    margin-bottom: 30px;
+}
+
+.vertical{
+    margin-left: 10px;
+    width: 630px;
+    height: 1120px;
+}
+
+.인용{
+    border-radius: 10px 10px 10px 10px / 10px 10px 10px 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: #444;
+}
+
+.sub{
+    margin-left: 30px; 
+}
+
+.horizontal{
+    margin-left: 10px;
+    width: 1100px;
+    height: 900px;
+}
